@@ -1,0 +1,1 @@
+A test project to create a simple Android app that reads data from an API and show it up on the phone.
